@@ -1,5 +1,5 @@
 # Dynamical Systems
-Used Matlab to implement solutions for numerical problems presented in the Lectures. </br>
+Used Maple to implement solutions for numerical problems presented in the Lectures. </br>
 
 **Learned:**
 * Discrete Dynamical Systems
